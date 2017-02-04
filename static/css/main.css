@@ -1,0 +1,31 @@
+html {
+  background-color: #000000;
+}
+
+#mainNav {
+  border-style: none;
+}
+
+#homeHeading {
+  font-family: 'Fredericka the Great', cursive;
+}
+
+ul {
+  list-style: none;
+}
+
+
+input.ng-invalid.ng-touched, textarea.ng-invalid.ng-touched {
+  border: 2px solid #f44242;
+}
+
+small {
+  color: #f44242;
+  display: block;
+  text-align: center;
+}
+
+input [disabled="disabled"] {
+  opacity: 0.4;
+  cursor: not-allowed !important;
+}
