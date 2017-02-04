@@ -3,6 +3,7 @@
 This website simply displays my knowledge of wev development.
 
 ## Used Technology
-Python, Flask, HTML, CSS, Bootstrap, Javascript and Angular (form).
+Back-End: Python, Flask 
+Front-End: HTML, CSS, Bootstrap, Javascript -- Jquery and Angular.
 
 
